@@ -2,7 +2,7 @@
 In this repository are all of the solutions to the problems that I solved during the SoftUni Python Basics.
 In the README I will place the problems.
 
-01.First Steps in Coding - Lab
+01.FIRST STEPS IN CODING - LAB
 ___________________________________________________________________________________________________________________________
 ----01.hello_SoftUni - Напишете конзолна Python програма, която отпечатва текста "Hello SoftUni".
 ___________________________________________________________________________________________________________________________
